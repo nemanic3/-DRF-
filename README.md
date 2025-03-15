@@ -11,7 +11,8 @@
 
 2. 사용할 자료
 
-✅ 직접 제작한 스터디 자료 활용✅ 추천 도서 및 강의:
+✅ 직접 제작한 스터디 자료 활용
+✅ 추천 도서 및 강의:
 
 『Django for APIs』 - William S. Vincent (DRF 기초 및 실전 활용)
 
@@ -23,15 +24,12 @@ Inflearn - Django REST Framework 강의 (필요한 부분 참고)
 
 3. 목표 (스터디가 끝날 때까지 달성할 것)
 
-✅ Django REST Framework(DRF)를 활용한 RESTful API 개발 기본 개념 이해✅ Serializer, ViewSet, Authentication 등 DRF 핵심 기능 익히기✅ RESTful API 설계 원칙을 이해하고 적용하기✅ 실제 간단한 프로젝트(API 서버) 배포까지 경험하기 (AWS 활용)
+✅ Django REST Framework(DRF)를 활용한 RESTful API 개발 기본 개념 이해
+✅ Serializer, ViewSet, Authentication 등 DRF 핵심 기능 익히기
+✅ RESTful API 설계 원칙을 이해하고 적용하기
+✅ 실제 간단한 프로젝트(API 서버) 배포까지 경험하기 (AWS 활용)
 
 4. 매주 학습 계획 (주별 커리큘럼)
-
-주차
-
-학습 내용
-
-학습 범위 (책 / 강의)
 
 1주차
 
